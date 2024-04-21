@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tp-sala-de-juegos-b2de0": {
+      "hosting": {
+        "tp-danielvizgarralivon": [
+          "tp-sala-de-juegos-b2de0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tp-sala-de-juegos-b2de0"
+  }
+}
